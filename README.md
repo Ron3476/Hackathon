@@ -5,7 +5,7 @@ Welcome to the personal website of **Ronald Kiprotich**, a passionate software a
 
 ## 🌐 Live Demo
 
-[Visit the Live Portfolio](https://ronaldkiprotich.github.io/portfolio)
+[Visit the Live Portfolio]((https://github.com/Ron3476/Hackathon/blob/main/index1.html)
 
 ---
 
@@ -41,22 +41,7 @@ project-root/
 
 - **HTML5** – Semantic markup for structure
 - **CSS3** – Styling and layout (external file)
-- **JavaScript** – (Potential for future interactivity)
 - **Fonts and Icons** – Unicode and basic font tags
-
----
-
-## 📷 Screenshots
-
-*(You can add these manually using screenshots of the website)*
-
-```markdown
-![Homepage](screenshots/homepage.png)
-![About Section](screenshots/about.png)
-![Contact Section](screenshots/contact.png)
-```
-
----
 
 ## 📞 Contact Information
 
